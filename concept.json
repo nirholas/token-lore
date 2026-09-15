@@ -1,0 +1,11 @@
+{
+  "slug": "token-lore",
+  "name": "Token Lore",
+  "kind": "token",
+  "description": "Create versioned lore cards that communities can attach to a mint.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
