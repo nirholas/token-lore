@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "token-lore"
+abstract: "Create versioned lore cards that communities can attach to a mint."
+repository-code: "https://github.com/nirholas/token-lore"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
