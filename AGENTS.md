@@ -8,7 +8,7 @@ Create versioned lore cards that communities can attach to a mint.
 
 - Source: https://github.com/nirholas/token-lore
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
